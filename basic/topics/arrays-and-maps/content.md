@@ -5,4 +5,4 @@
 3. [Карты](maps.md)
 4. [Обход коллекции](range.md)
 
-[<< Назад](../base/content.md) [На главную](../../basics.md) [Вперед >>]()
+[<< Назад](../base/content.md) [На главную](../../basics.md) [Вперед >>](../funcs-and-pointers/content.md)

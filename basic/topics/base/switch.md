@@ -65,4 +65,4 @@ default:
 
 [Задание 4. Язык по коду](tasks/task4.md)
 
-[<< Назад](conditions.md) [На главную](base.md)
+[<< Назад](conditions.md) [На главную](content.md)

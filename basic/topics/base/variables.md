@@ -63,4 +63,4 @@ fmt.Println(food)
 > **Warning:**
 > `:=` работает только внутри блоков кода
 
-[<< Назад](./values.md) [На главную](base.md) [Вперед >>](./consts.md)
+[<< Назад](./values.md) [На главную](content.md) [Вперед >>](./consts.md)

@@ -52,4 +52,4 @@ for n := 0; n <= 5; n++ {
 
 [Задание 3. Повтор строки](tasks/task3.md)
 
-[<< Назад](consts.md) [На главную](base.md) [Вперед >>](conditions.md)
+[<< Назад](consts.md) [На главную](content.md) [Вперед >>](conditions.md)

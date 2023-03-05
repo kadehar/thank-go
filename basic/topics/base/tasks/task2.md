@@ -12,3 +12,5 @@
 $ echo "1 1 4 5" | go run distance.go
 5
 ```
+
+[<< Назад](../consts.md)

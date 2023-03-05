@@ -1,4 +1,5 @@
 # Продолжительность в минутах
+
 Напишите программу, которая считает количество минут во временном отрезке.
 
 ```
@@ -11,7 +12,7 @@
 
 <details>
     <summary><strong>Solution</strong></summary>
-    
+
 ```go 
 package main
 
@@ -35,4 +36,5 @@ func main() {
     fmt.Println(s,"=", d.Minutes(), "min")
 }
 ```
+
 </details>

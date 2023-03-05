@@ -44,4 +44,4 @@ fmt.Println(math.Sin(n))
 
 [Задание 2. Расстояние между точками](tasks/task2.md)
 
-[<< Назад](./variables.md) [На главную](../base.md) [Вперед >>]()
+[<< Назад](./variables.md) [На главную](../base.md) [Вперед >>](./loops.md)

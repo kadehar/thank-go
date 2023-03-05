@@ -6,3 +6,6 @@
 4. [Функции и указатели](topics/funcs-and-pointers/content.md)
 5. [Структуры и методы](topics/struct-and-methods/content.md)
 6. [Интерфейсы](topics/interfaces/content.md)
+7. [Ошибки](topics/errors/content.md)
+
+[На главную](../README.md)

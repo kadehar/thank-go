@@ -8,4 +8,4 @@
 6. [if/else](./base/conditions.md)
 7. [switch](./base/switch.md)
 
-[<< Назад](../basics.md) [Вперед >>]()
+[<< Назад](./about.md) [На главную](../basics.md) [Вперед >>]()

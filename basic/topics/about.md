@@ -11,3 +11,5 @@
 * [Go talks](https://go.dev/talks/) The Go Authors
 * [Go by Example](https://github.com/mmcgrana/gobyexample) Mark McGranaghan
 * [Exercism Go Track](https://github.com/exercism/go) Exercism
+
+[<< Назад](../basics.md) [Вперед >>](./base.md)

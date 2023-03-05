@@ -6,4 +6,4 @@
 4. [Композиция](composition.md)
 5. [Встраивание](embedding.md)
 
-[<< Назад](../funcs-and-pointers/content.md) [На главную](../../basics.md) [Вперед >>]()
+[<< Назад](../funcs-and-pointers/content.md) [На главную](../../basics.md) [Вперед >>](../interfaces/content.md)

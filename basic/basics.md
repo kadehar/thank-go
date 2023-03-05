@@ -5,3 +5,4 @@
 3. [Массивы и карты](topics/arrays-and-maps/content.md)
 4. [Функции и указатели](topics/funcs-and-pointers/content.md)
 5. [Структуры и методы](topics/struct-and-methods/content.md)
+6. [Интерфейсы](topics/interfaces/content.md)

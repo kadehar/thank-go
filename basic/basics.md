@@ -84,3 +84,5 @@ fmt.Println(!true)
 fmt.Println("go" + "lang")
 // golang
 ```
+
+[Задание 1. Продолжительность в минутах](./tasks/task1.md)

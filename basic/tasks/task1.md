@@ -32,7 +32,7 @@ func main() {
 	// и количество минут в нем
 	// в формате "исходное = X min"
 	// используйте метод .Minutes() объекта d
-    fmt.Println(s,"=", d.Minutes(), "min")
+   fmt.Println(s,"=", d.Minutes(), "min")
 }
 ```
 </details>

@@ -34,4 +34,4 @@ $ ./hello
 hello everyone
 ```
 
-[<< Назад](../base.md) [Вперед >>](./values.md)
+[<< Назад](base.md) [Вперед >>](values.md)

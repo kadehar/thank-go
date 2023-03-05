@@ -35,4 +35,4 @@ if num := 9; num < 0 {
 // 9 has 1 digit
 ```
 
-[<< Назад](./loops.md) [На главную](../base.md) [Вперед >>](./switch.md)
+[<< Назад](loops.md) [На главную](base.md) [Вперед >>](switch.md)

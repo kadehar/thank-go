@@ -34,4 +34,4 @@ fmt.Println("go" + "lang")
 
 [Задание 1. Продолжительность в минутах](tasks/task1.md)
 
-[<< Назад](./hello.md) [На главную](../base.md) [Вперед >>](./variables.md)
+[<< Назад](./hello.md) [На главную](./base.md) [Вперед >>](./variables.md)
